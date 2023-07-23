@@ -1,0 +1,24 @@
+.faq-container{
+    margin: 0 300px; /* should be half of the px value in width */
+    width: calc(100% - 600px);
+    margin-bottom: 50px;
+}
+
+.faq-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .faq-item h3 {
+    cursor: pointer;
+  }
+  
+  .faq-item p {
+    display: none;
+  }
+  
+  .faq-item.active p {
+    display: block;
+  }
+  

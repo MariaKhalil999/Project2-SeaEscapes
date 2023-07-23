@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Montserrat&family=Poppins:wght@500&display=swap');
+
+
+  .activities {
+    width: 75%;
+  
+    display: grid;
+    
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 40px;
+    justify-items: center;
+  }
+  
+  
+  .activity-list {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+
+
+  
+  .apply-filters-text {
+    width: 20%;
+    border-right: 1px solid #ccc;
+    padding: 20px;
+    font-family: "Montserrat", sans-serif;
+    color: #2C2C2C;
+  }
+  
+  .see-more-btn {
+    align-self: center;
+    width: 50%;
+    background-color: #FFE066;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: #2C2C2C;
+  }
+  
+
+.product-card {
+    border: 1px solid #ccc;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    display: flex;
+    font-family: "Montserrat", sans-serif;
+    color: #2C2C2C;
+    align-items: center;
+    max-height: fit-content;
+    flex-direction: column;
+    
+  }
+
+  .product-desc{
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px 15px 0 0px;
+  }
+
+
+  
+ 
+  
+  input[type="checkbox"] {
+    appearance: none;
+    width: 16px;
+    height: 16px;
+
+    margin-right: 5px; 
+    border: 2px solid #ccc;
+    
+    background-color: white;
+    outline: none;
+    cursor: pointer;
+    vertical-align: middle; 
+    border-radius: 3px;
+    
+  }
+  
+  input[type="checkbox"]:checked {
+    background-color: #74D3AE;
+  }
+  

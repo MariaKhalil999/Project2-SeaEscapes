@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Montserrat&display=swap');
+
+
+.home-container {
+    background-image: url("./assets/background.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+.welcome-container {
+    margin-top: 50px; 
+  }
+  
+.welcome-section {
+    text-align: center;
+    color: white;
+    margin-top: 30vh;
+  }
+  
+.welcome-message {
+    font-family: "Barlow", sans-serif;
+    font-size: 5vw;
+  }
+
+.welcome-desc{
+  font-size: 1.5vw;
+}
+
+.book-button-hero{
+    background-color: #FF6F59;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    margin: 2vw;
+    border-radius: 20px;
+}
+  

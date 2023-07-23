@@ -1,0 +1,10 @@
+.reviews-title{
+    color: rgb(255, 255, 255);
+}
+
+.reviews-page-container {
+    background-image: url("./assets/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }

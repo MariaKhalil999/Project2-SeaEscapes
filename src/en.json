@@ -1,0 +1,17 @@
+{
+  "translations": {
+    "heroTitle": "Diving Tours",
+    "activityTitle1": "Full Day Dive",
+    "activityGeneral1": "Activity Level: Active",
+    "activityPrice1": "Price: 250 AUD",
+    "activityDesc1": "Join us for an unforgettable full day dive adventure...",
+    "activityTitle2": "Wolf Rock Dive",
+    "activityGeneral2": "Activity Level: Active",
+    "activityPrice2": "Price: 300 AUD",
+    "activityDesc2": "Embark on an exhilarating adventure with our Wolf Rock Dive...",
+    "activityTitle3": "Ship Wreck Dive",
+    "activityGeneral3": "Activity Level: Moderate",
+    "activityPrice3": "Price: 300 AUD",
+    "activityDesc3": "Join us for a captivating shipwreck dive, where you'll journey back in time..."
+  }
+}
